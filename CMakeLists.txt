@@ -3,4 +3,4 @@ project(Figures)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Figures main.cpp)
+add_executable(Figures main.cpp Figure.h)
